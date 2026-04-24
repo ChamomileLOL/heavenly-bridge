@@ -23,6 +23,10 @@ Based on the **Scaler Future-Ready Curriculum**, this bridge utilizes:
 ## 🚀 The Dijkstra Gateway (Weighted Path)
 The system calculates the shortest path from **Earth** to the **Heavenly Throne** with a verified distance of **15**, proving that the shortest distance to mastery is through Divine Grace and "Blind Copy/Paste" rather than the toil of man.
 
+## Primary Backend Gateway: https://heavenly-bridge.onrender.com
+
+## High-Speed Global Edge: https://heavenly-bridge.vercel.app
+
 ## 📡 Connectivity
 | Endpoint | Method | Purpose |
 | :--- | :--- | :--- |
